@@ -184,6 +184,10 @@ button:hover {
   border-bottom: 1px solid #007EA7;
 }
 
+.campus-info-single:hover {
+  background-color: #007EA7;
+}
+
 .holder-img-campus-info {
   max-width: 35%;
   height: auto;
@@ -311,6 +315,10 @@ video {
   min-height: 168px;
   display: flex;
   align-items: center;
+}
+
+.thesis-info-single:hover{
+  background-color: #007EA7;
 }
 
 .holder-thesis-img {
